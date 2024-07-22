@@ -19,7 +19,6 @@ charset-normalizer==3.3.2
 click==8.1.7
 cloudpathlib==0.18.1
 colorama==0.4.4
-command-not-found==0.3
 confection==0.1.5
 configobj==5.0.6
 constantly==15.1.0
