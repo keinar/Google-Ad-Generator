@@ -19,7 +19,6 @@ charset-normalizer==3.3.2
 click==8.1.7
 cloudpathlib==0.18.1
 colorama==0.4.4
-command-not-found==0.3
 confection==0.1.5
 configobj==5.0.6
 constantly==15.1.0
@@ -29,7 +28,6 @@ cycler==0.12.1
 cymem==2.0.8
 dbus-python==1.2.18
 distro==1.7.0
-distro-info==1.1+ubuntu0.1
 docker==5.0.3
 docker-compose==1.29.2
 dockerpty==0.4.1
